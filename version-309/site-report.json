@@ -1,0 +1,20 @@
+{
+  "generated_at": "2026-05-26T05:09:19Z",
+  "movie_records_parsed": 2000,
+  "detail_pages_generated": 2000,
+  "category_pages_generated": 8,
+  "category_distribution": {
+    "欧美精选": 250,
+    "动作犯罪": 250,
+    "剧情悬疑": 250,
+    "科幻奇幻": 250,
+    "喜剧爱情": 250,
+    "剧集专区": 250,
+    "纪录纪实": 250,
+    "高清片库": 250
+  },
+  "html_pages_total": 2013,
+  "baidu_script_missing_pages": [],
+  "hls_sources_extracted_from_uploaded_js": 20,
+  "cover_policy": "HTML references top-level 1.jpg through 150.jpg cyclically; uploaded ZIP did not contain image files."
+}
